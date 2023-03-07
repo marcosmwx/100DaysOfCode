@@ -14,7 +14,7 @@
 
 - [ ] [One: Java e Orientação a Objetos](https://oracle.com/br/education/oracle-next-education/)
   - [x] Completo [Java JRE e JDK: compile e execute o seu programa]()
-  - [ ] Completo [Java OO: entendendo a Orientação a Objetos]()
+  - [x] Completo [Java OO: entendendo a Orientação a Objetos]()
   - [ ] Completo [Java Polimorfismo: entenda herança e interfaces]()
 - [ ] [One: Formação Complementar Back End T4 - ONE](https://oracle.com/br/education/oracle-next-education/)
   - [ ] Completo [Java]()
