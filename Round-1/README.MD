@@ -17,7 +17,7 @@
   - [x] Completo [Java OO: entendendo a Orientação a Objetos](https://cursos.alura.com.br/certificate/willianmw/java-introducao-orientacao-objetos)
   - [x] Completo [Java Polimorfismo: entenda herança e interfaces](https://cursos.alura.com.br/certificate/willianmw/java-heranca-interfaces-polimorfismo)
   - [x] Completo [Lista 1 de exercicios de POO]()
-  - [ ] Completo [Java Exceções: aprenda a criar, lançar e controlar exceções]()
+  - [x] Completo [Java Exceções: aprenda a criar, lançar e controlar exceções](https://cursos.alura.com.br/certificate/willianmw/java-excecoes)
   - [ ] Completo [Java Collections: Dominando Listas, Sets e Mapas]()
 - [ ] [One: Formação Complementar Back End T4 - ONE](https://oracle.com/br/education/oracle-next-education/)
   - [ ] Completo [Java]()
