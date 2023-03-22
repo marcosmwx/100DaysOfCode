@@ -26,6 +26,16 @@
   - [ ] Completo [Lista 2 de exercicios de POO]()
 - [ ] [One: Challenge](https://oracle.com/br/education/oracle-next-education/)
 
+### Extras
+
+- [x] [Empreendedorismo]()
+  - [x] Completo [Lean Startup: primeiros passos da sua Startup enxuta](https://cursos.alura.com.br/certificate/willianmw/lean)
+  - [x] Completo [Empreendedorismo: da ideia ao plano de negócios](https://cursos.alura.com.br/certificate/willianmw/empreendedorismo)
+  - [x] Completo [Empreendedorismo: abrindo sua empresa do jeito certo](https://cursos.alura.com.br/certificate/willianmw/empreendedorismo-abra-sua-empresa)
+  - [x] Completo [Pitch entrevistas: Faça apresentações de impacto](https://cursos.alura.com.br/certificate/willianmw/pitch-entrevistas)
+  - [ ] Completo [Business Model Canvas parte I: um modelo poderoso para o seu negócio]()
+  - [ ] Completo [Business Model Canvas parte II: avance no seu modelo de negócios]()
+
 ### Lista de Projetos
 
 |  #  | Título do Projeto | Completo em |
