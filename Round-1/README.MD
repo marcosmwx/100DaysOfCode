@@ -24,7 +24,7 @@
   - [ ] Completo [Banco de Dados]()
   - [ ] Completo [Spring]()
   - [ ] Completo [Lista 2 de exercicios de POO]()
-- [ ] [One: Challenge](https://oracle.com/br/education/oracle-next-education/)
+- [ ] [One: Challenge Conversor](https://github.com/marcosmwx/Challenge-Conversor)
 
 ### Extras
 
