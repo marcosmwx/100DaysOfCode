@@ -26,7 +26,7 @@
 - [ ] [One: Java e Spring Boot](https://oracle.com/br/education/oracle-next-education/)
 
   - [ ] Completo [Java com o banco de dados]()
-    - [ ] Completo [SQL com MySQL: manipule e consulte dados]()
+    - [x] Completo [SQL com MySQL: manipule e consulte dados](https://cursos.alura.com.br/certificate/willianmw/sql-mysql-manipule-dados-com-sql)
     - [ ] Completo [Java e JDBC: trabalhando com um banco de dados]()
     - [ ] Completo [Persistência com JPA: Hibernate]()
     - [ ] Completo [Java e JPA: consultas avançadas, performance e modelos complexos]()
@@ -38,7 +38,8 @@
     - [ ] Completo [Spring Boot 3: aplique boas práticas e proteja uma API Rest]()
 
 - [ ] [Orientação a Objetos com Java - ITA - Coursera]()
-  - [ ] Completo [SEMANA 1]()
+  - [x] Completo [SEMANA 1]()
+  - [ ] Completo [SEMANA 2]()
 
 ### Extras
 
