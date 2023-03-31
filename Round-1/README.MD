@@ -39,7 +39,8 @@
 
 - [ ] [Orientação a Objetos com Java - ITA - Coursera]()
   - [x] Completo [SEMANA 1]()
-  - [ ] Completo [SEMANA 2]()
+  - [x] Completo [SEMANA 2]()
+  - [ ] Completo [SEMANA 3]()
 
 ### Extras
 
