@@ -41,7 +41,7 @@
   - [x] Completo [SEMANA 1]()
   - [x] Completo [SEMANA 2]()
   - [x] Completo [SEMANA 3]()
-  - [ ] Completo [SEMANA 4]()
+  - [x] Completo [SEMANA 4]()
   - [ ] Completo [SEMANA 5]()
   - [ ] Completo [SEMANA 6]()
 
