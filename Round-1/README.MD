@@ -37,13 +37,13 @@
     - [ ] Completo [Spring Boot 3: desenvolva uma API Rest em Java]()
     - [ ] Completo [Spring Boot 3: aplique boas práticas e proteja uma API Rest]()
 
-- [x] [Orientação a Objetos com Java - ITA - Coursera]()
-  - [x] Completo [SEMANA 1]()
-  - [x] Completo [SEMANA 2]()
-  - [x] Completo [SEMANA 3]()
-  - [x] Completo [SEMANA 4]()
-  - [x] Completo [SEMANA 5]()
-  - [x] Completo [SEMANA 6]()
+- [x] [Orientação a Objetos com Java - ITA - Coursera](https://www.coursera.org/account/accomplishments/certificate/4FYB63CRB2MA)
+  - [x] Completo [SEMANA 1](https://www.coursera.org/account/accomplishments/certificate/4FYB63CRB2MA)
+  - [x] Completo [SEMANA 2](https://www.coursera.org/account/accomplishments/certificate/4FYB63CRB2MA)
+  - [x] Completo [SEMANA 3](https://www.coursera.org/account/accomplishments/certificate/4FYB63CRB2MA)
+  - [x] Completo [SEMANA 4](https://www.coursera.org/account/accomplishments/certificate/4FYB63CRB2MA)
+  - [x] Completo [SEMANA 5](https://www.coursera.org/account/accomplishments/certificate/4FYB63CRB2MA)
+  - [x] Completo [SEMANA 6](https://www.coursera.org/account/accomplishments/certificate/4FYB63CRB2MA)
 
 ### Extras
 
