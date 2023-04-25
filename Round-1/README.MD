@@ -28,7 +28,7 @@
   - [ ] Completo [Java com o banco de dados]()
     - [x] Completo [SQL com MySQL: manipule e consulte dados](https://cursos.alura.com.br/certificate/willianmw/sql-mysql-manipule-dados-com-sql)
     - [x] Completo [Java e JDBC: trabalhando com um banco de dados](https://cursos.alura.com.br/certificate/willianmw/java-jdbc-trabalhando-banco-dados?lang=pt_BR)
-    - [ ] Completo [Persistência com JPA: Hibernate]()
+    - [x] Completo [Persistência com JPA: Hibernate](https://cursos.alura.com.br/certificate/willianmw/persistencia-jpa-hibernate)
     - [ ] Completo [Java e JPA: consultas avançadas, performance e modelos complexos]()
   - [ ] Completo [Fundamentos do Java na Web]()
     - [ ] Completo [Java Servlet: programação web Java]()
