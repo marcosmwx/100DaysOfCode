@@ -25,11 +25,11 @@
 
 - [ ] [One: Java e Spring Boot](https://oracle.com/br/education/oracle-next-education/)
 
-  - [ ] Completo [Java com o banco de dados]()
+  - [x] Completo [Java com o banco de dados]()
     - [x] Completo [SQL com MySQL: manipule e consulte dados](https://cursos.alura.com.br/certificate/willianmw/sql-mysql-manipule-dados-com-sql)
     - [x] Completo [Java e JDBC: trabalhando com um banco de dados](https://cursos.alura.com.br/certificate/willianmw/java-jdbc-trabalhando-banco-dados?lang=pt_BR)
     - [x] Completo [Persistência com JPA: Hibernate](https://cursos.alura.com.br/certificate/willianmw/persistencia-jpa-hibernate)
-    - [ ] Completo [Java e JPA: consultas avançadas, performance e modelos complexos]()
+    - [x] Completo [Java e JPA: consultas avançadas, performance e modelos complexos](https://cursos.alura.com.br/user/willianmw/course/java-jpa-consultas-performance-modelos-complexos/certificate)
   - [ ] Completo [Fundamentos do Java na Web]()
     - [ ] Completo [Java Servlet: programação web Java]()
     - [ ] Completo [Java Servlet: autenticação, autorização e o padrão MVC]()
