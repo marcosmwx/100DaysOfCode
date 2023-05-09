@@ -31,7 +31,7 @@
     - [x] Completo [Persistência com JPA: Hibernate](https://cursos.alura.com.br/certificate/willianmw/persistencia-jpa-hibernate)
     - [x] Completo [Java e JPA: consultas avançadas, performance e modelos complexos](https://cursos.alura.com.br/user/willianmw/course/java-jpa-consultas-performance-modelos-complexos/certificate)
   - [ ] Completo [Fundamentos do Java na Web]()
-    - [ ] Completo [Java Servlet: programação web Java]()
+    - [x] Completo [Java Servlet: programação web Java](https://cursos.alura.com.br/certificate/willianmw/java-servlet-programacao-web-java)
     - [ ] Completo [Java Servlet: autenticação, autorização e o padrão MVC]()
   - [ ] Completo [API REST com Spring Boot 3]()
     - [ ] Completo [Spring Boot 3: desenvolva uma API Rest em Java]()
