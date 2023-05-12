@@ -25,14 +25,14 @@
 
 - [ ] [One: Java e Spring Boot](https://oracle.com/br/education/oracle-next-education/)
 
-  - [x] Completo [Java com o banco de dados]()
+  - [x] Completo [Java com o banco de dados](https://github.com/marcosmwx/JDBC)
     - [x] Completo [SQL com MySQL: manipule e consulte dados](https://cursos.alura.com.br/certificate/willianmw/sql-mysql-manipule-dados-com-sql)
     - [x] Completo [Java e JDBC: trabalhando com um banco de dados](https://cursos.alura.com.br/certificate/willianmw/java-jdbc-trabalhando-banco-dados?lang=pt_BR)
     - [x] Completo [Persistência com JPA: Hibernate](https://cursos.alura.com.br/certificate/willianmw/persistencia-jpa-hibernate)
     - [x] Completo [Java e JPA: consultas avançadas, performance e modelos complexos](https://cursos.alura.com.br/user/willianmw/course/java-jpa-consultas-performance-modelos-complexos/certificate)
-  - [ ] Completo [Fundamentos do Java na Web]()
+  - [x] Completo [Fundamentos do Java na Web](https://github.com/marcosmwx/web-Java-servlet)
     - [x] Completo [Java Servlet: programação web Java](https://cursos.alura.com.br/certificate/willianmw/java-servlet-programacao-web-java)
-    - [ ] Completo [Java Servlet: autenticação, autorização e o padrão MVC]()
+    - [x] Completo [Java Servlet: autenticação, autorização e o padrão MVC](https://cursos.alura.com.br/certificate/willianmw/servlet-autenticacao-autorizacao-padrao-mvc)
   - [ ] Completo [API REST com Spring Boot 3]()
     - [ ] Completo [Spring Boot 3: desenvolva uma API Rest em Java]()
     - [ ] Completo [Spring Boot 3: aplique boas práticas e proteja uma API Rest]()
@@ -57,7 +57,10 @@
 
 ### Lista de Projetos
 
-|  #  | Título do Projeto | Completo em |
-| :-: | :---------------: | :---------: |
+|  #  |                            Título do Projeto                            | Completo em  |
+| :-: | :---------------------------------------------------------------------: | :----------: |
+|  1  | [Challenge-Conversor](https://github.com/marcosmwx/Challenge-Conversor) | Mar 23, 2023 |
+|  2  |        [JDBC](https://github.com/marcosmwx/Challenge-Conversor)         | Abr 19, 2023 |
+|  3  |  [web-Java-servlet](https://github.com/marcosmwx/Challenge-Conversor)   | Mai 11, 2023 |
 
 [<< Home](../README.md) | [Day 1 >>](dia001.md)
