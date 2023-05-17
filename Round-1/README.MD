@@ -34,7 +34,7 @@
     - [x] Completo [Java Servlet: programação web Java](https://cursos.alura.com.br/certificate/willianmw/java-servlet-programacao-web-java)
     - [x] Completo [Java Servlet: autenticação, autorização e o padrão MVC](https://cursos.alura.com.br/certificate/willianmw/servlet-autenticacao-autorizacao-padrao-mvc)
   - [ ] Completo [API REST com Spring Boot 3]()
-    - [ ] Completo [Spring Boot 3: desenvolva uma API Rest em Java]()
+    - [x] Completo [Spring Boot 3: desenvolva uma API Rest em Java](https://cursos.alura.com.br/certificate/willianmw/spring-boot-3-desenvolva-api-rest-java)
     - [ ] Completo [Spring Boot 3: aplique boas práticas e proteja uma API Rest]()
 
 - [x] [Orientação a Objetos com Java - ITA - Coursera](https://www.coursera.org/account/accomplishments/certificate/4FYB63CRB2MA)
