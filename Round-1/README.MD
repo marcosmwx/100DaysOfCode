@@ -23,7 +23,7 @@
 
 - [x] [One: Challenge Conversor](https://github.com/marcosmwx/Challenge-Conversor)
 
-- [ ] [One: Java e Spring Boot](https://oracle.com/br/education/oracle-next-education/)
+- [x] [One: Java e Spring Boot](https://cursos.alura.com.br/user/willianmw/degree-spring-framework-turma4-one-523741/certificate)
 
   - [x] Completo [Java com o banco de dados](https://github.com/marcosmwx/JDBC)
     - [x] Completo [SQL com MySQL: manipule e consulte dados](https://cursos.alura.com.br/certificate/willianmw/sql-mysql-manipule-dados-com-sql)
@@ -33,9 +33,9 @@
   - [x] Completo [Fundamentos do Java na Web](https://github.com/marcosmwx/web-Java-servlet)
     - [x] Completo [Java Servlet: programação web Java](https://cursos.alura.com.br/certificate/willianmw/java-servlet-programacao-web-java)
     - [x] Completo [Java Servlet: autenticação, autorização e o padrão MVC](https://cursos.alura.com.br/certificate/willianmw/servlet-autenticacao-autorizacao-padrao-mvc)
-  - [ ] Completo [API REST com Spring Boot 3]()
+  - [x] Completo [API REST com Spring Boot 3](https://cursos.alura.com.br/user/willianmw/degree-spring-framework-turma4-one-523741/certificate)
     - [x] Completo [Spring Boot 3: desenvolva uma API Rest em Java](https://cursos.alura.com.br/certificate/willianmw/spring-boot-3-desenvolva-api-rest-java)
-    - [ ] Completo [Spring Boot 3: aplique boas práticas e proteja uma API Rest]()
+    - [x] Completo [Spring Boot 3: aplique boas práticas e proteja uma API Rest](https://cursos.alura.com.br/certificate/willianmw/spring-boot-aplique-boas-praticas-proteja-api-rest)
 
 - [x] [Orientação a Objetos com Java - ITA - Coursera](https://www.coursera.org/account/accomplishments/certificate/4FYB63CRB2MA)
   - [x] Completo [SEMANA 1](https://www.coursera.org/account/accomplishments/certificate/4FYB63CRB2MA)
