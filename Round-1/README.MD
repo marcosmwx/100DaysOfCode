@@ -57,10 +57,11 @@
 
 ### Lista de Projetos
 
-|  #  |                            Título do Projeto                            | Completo em  |
-| :-: | :---------------------------------------------------------------------: | :----------: |
-|  1  | [Challenge-Conversor](https://github.com/marcosmwx/Challenge-Conversor) | Mar 23, 2023 |
-|  2  |        [JDBC](https://github.com/marcosmwx/Challenge-Conversor)         | Abr 19, 2023 |
-|  3  |  [web-Java-servlet](https://github.com/marcosmwx/Challenge-Conversor)   | Mai 11, 2023 |
+|  #  |                             Título do Projeto                             | Completo em  |
+| :-: | :-----------------------------------------------------------------------: | :----------: |
+|  1  |  [Challenge-Conversor](https://github.com/marcosmwx/Challenge-Conversor)  | Mar 23, 2023 |
+|  2  |         [JDBC](https://github.com/marcosmwx/Challenge-Conversor)          | Abr 19, 2023 |
+|  3  |   [web-Java-servlet](https://github.com/marcosmwx/Challenge-Conversor)    | Mai 11, 2023 |
+|  4  | [api-rest-spring-boot](https://github.com/marcosmwx/api-rest-spring-boot) | Mai 19, 2023 |
 
 [<< Home](../README.md) | [Day 1 >>](dia001.md)
