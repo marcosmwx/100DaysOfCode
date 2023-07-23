@@ -33,9 +33,9 @@ Mais detalhes sobre o desafio podem ser encontrados aqui:
 
 ## Rounds
 
-|     Round      |  Data Inicio   |   Data Final   |   Status    |
-| :------------: | :------------: | :------------: | :---------: |
-| [1](/Round-1/) | 06 Março, 2023 | 21 julho, 2023 | em processo |
+|     Round      |  Data Inicio   |   Data Final   |  Status   |
+| :------------: | :------------: | :------------: | :-------: |
+| [1](/Round-1/) | 06 Março, 2023 | 21 julho, 2023 | Concluído |
 
 ## Motivação
 

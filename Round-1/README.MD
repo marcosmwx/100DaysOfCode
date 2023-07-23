@@ -1,8 +1,8 @@
 # Round 1
 
-|         Data Inicio         |   Final   |    Status    |
-| :-------------------------: | :-------: | :----------: |
-| [06 Março, 2022](dia001.md) | --------- | Em andamento |
+|         Data Inicio         |            Final            |  Status   |
+| :-------------------------: | :-------------------------: | :-------: |
+| [06 Março, 2023](dia001.md) | [21 Julho, 2023](dia100.md) | Concluído |
 
 ### Lembretes
 
